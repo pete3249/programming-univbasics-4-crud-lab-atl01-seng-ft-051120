@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array
   volleyball_gear = ["water bottle", "foam roller", "running shoes"]
-  volleyball_gear << "crowd"
+  volleyball_gear<<"crowd"
 end
 
 def add_element_to_start_of_array(array, element)
