@@ -1,12 +1,14 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  ["volleyball", "kneepads", "net", "line judge"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array
+  ["water bottle", "foam roller", "running shoes"]
+  puts add_element_to_end_of_array << "crowd"
   
 end
 
