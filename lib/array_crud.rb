@@ -6,7 +6,7 @@ def create_an_array
   ["volleyball", "kneepads", "net", "line judge"]
 end
 
-def add_element_to_end_of_array
+def add_element_to_end_of_array(volleyball_gear, "crowd")
   volleyball_gear = ["water bottle", "foam roller", "running shoes"]
   volleyball_gear<< "crowd"
 end
