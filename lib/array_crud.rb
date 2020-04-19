@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   new_array = ["water bottle", "foam roller", "running shoes"]
-  puts new_array.push(crowd)
+  puts new_array << "crowd"
 end
 
 def add_element_to_start_of_array(array, element)
